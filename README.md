@@ -7,3 +7,5 @@ This project cloudiness, wind, build the website using source code
 2. CSS <br>
 3. Javascript  <br>
 implimenting the using Event Handling, Control Statements, API calling etc..
+![weather app 1](https://user-images.githubusercontent.com/98338459/188869314-b88bba38-76d5-4fbf-b4ad-a321146fd740.jpg)
+![weather app 2](https://user-images.githubusercontent.com/98338459/188869325-620de46f-8df2-4a85-b14d-673263e2cfb7.jpg)
