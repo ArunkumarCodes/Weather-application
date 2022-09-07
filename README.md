@@ -1,5 +1,9 @@
 # Weather-application
+Determine the temperature across the globe on your fingertips and deployed the "city change" feature.
 
-it is ‘the state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc. General Words Describing Weather climate – the type of weather that a country or region has climate change – changes in the earth’s weather, including changes in temperature, wind patterns and rainfall, especially the increase in the temperature of the earth’s atmosphere that is caused by the increase of particular gases, especially carbon dioxide meteorology – the scientific study of weather seasonal – suitable or typical of the time of year it is now spell – a period when there is a particular type of weather weather forecast – a report on likely weather conditions for a period of time in the future zone – one of the large areas that the world is divided into according to its temperature
-
-This project cloudiness, wind, build the website using source code HTML, CSS, Javascript implimenting the using Event Handling, Control Statements, API calling etc..
+it is ‘the state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc. General Words Describing Weather climate <br>
+This project cloudiness, wind, build the website using source code 
+1. HTML <br>
+2. CSS <br>
+3. Javascript  <br>
+implimenting the using Event Handling, Control Statements, API calling etc..
